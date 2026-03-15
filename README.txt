@@ -1,12 +1,41 @@
-# Matglädje
+# Matgladje
 
-Matglädje är en modern och responsiv restauranghemsida som presenterar en restaurangs meny, information om restaurangen och kontaktuppgifter på ett tydligt och användarvänligt sätt. Projektet är byggt med fokus på enkel navigation, ren design och en struktur som gör det lätt för besökare att snabbt hitta rätt information. Webbplatsen är responsiv och fungerar därför på både mobil, surfplatta och dator.
+Matgladje is a modern, responsive restaurant website built to present menu items, opening hours, and contact details in a clean and user-friendly way.
 
-Projektet är utvecklat med HTML, CSS och JavaScript och skapades som en del av min utveckling inom frontendutveckling där jag tränar på att strukturera kod, skapa responsiva layouter och bygga användarvänliga gränssnitt. Målet med projektet är att simulera en realistisk restaurangwebbplats och samtidigt utveckla mina tekniska färdigheter inom frontend.
+The project focuses on:
+- Simple navigation
+- Clear content structure
+- Responsive layout for mobile, tablet, and desktop
 
-För att köra projektet lokalt kan repot klonas via kommandot `git clone https://github.com/ditt-användarnamn/matgladje.git`. Navigera sedan till projektmappen och öppna filen `index.html` i webbläsaren.
+## Pages
 
-Projektet kan i framtiden vidareutvecklas med funktioner som bokningssystem, interaktiv meny, onlinebeställning eller en backend-integration.
+- Home: `index.html`
+- Menu: `meny.html`
+- Contact: `contact.html`
 
-**Tekniker:** HTML, CSS, JavaScript
-**Utvecklare:** Therese Lagerhäll
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+
+## Run Locally
+
+1. Clone the repository:
+	`git clone https://github.com/your-username/matgladje.git`
+2. Open the project folder.
+3. Open `index.html` in your browser.
+
+No build step or package installation is required.
+
+## Future Improvements
+
+Potential next features:
+- Table booking form
+- Interactive menu filters
+- Online ordering
+- Backend/API integration
+
+## Author
+
+Therese Lagerhall
